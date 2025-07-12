@@ -38,7 +38,8 @@
   },
   "dependencies": {
     "@stdlib/blas-base-matrix-orientation-enum2str": "github:stdlib-js/blas-base-matrix-orientation-enum2str#main",
-    "@stdlib/blas-base-matrix-orientation-str2enum": "github:stdlib-js/blas-base-matrix-orientation-str2enum#main"
+    "@stdlib/blas-base-matrix-orientation-str2enum": "github:stdlib-js/blas-base-matrix-orientation-str2enum#main",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.2"
   },
   "devDependencies": {
     "@stdlib/assert-is-string": "^0.2.2",
