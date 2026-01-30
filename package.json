@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/blas-base-matrix-orientation-resolve-str",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Return the matrix orientation string associated with a supported matrix orientation value.",
   "license": "Apache-2.0",
   "author": {
@@ -38,7 +38,7 @@
   },
   "dependencies": {
     "@stdlib/blas-base-matrix-orientation-enum2str": "github:stdlib-js/blas-base-matrix-orientation-enum2str#main",
-    "@stdlib/blas-base-matrix-orientation-str2enum": "github:stdlib-js/blas-base-matrix-orientation-str2enum#main"
+    "@stdlib/blas-base-matrix-orientation-str2enum": "^0.1.0"
   },
   "devDependencies": {
     "@stdlib/assert-is-string": "^0.2.2",
@@ -75,7 +75,6 @@
     "util",
     "enum"
   ],
-  "__stdlib__": {},
   "funding": {
     "type": "opencollective",
     "url": "https://opencollective.com/stdlib"

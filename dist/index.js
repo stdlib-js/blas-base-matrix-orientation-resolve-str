@@ -1,25 +1,5 @@
+"use strict";var u=function(e,r){return function(){return r||e((r={exports:{}}).exports,r),r.exports}};var n=u(function(m,t){
+var i=require('@stdlib/blas-base-matrix-orientation-enum2str/dist'),s=require('@stdlib/blas-base-matrix-orientation-str2enum/dist');function o(e){var r=typeof e;return r==="string"?s(e)===null?null:e:r==="number"?i(e):null}t.exports=o
+});var f=n();module.exports=f;
 /** @license Apache-2.0 */
-
-'use strict';
-
-/**
-* Return the matrix orientation string associated with a supported matrix orientation value.
-*
-* @module @stdlib/blas-base-matrix-orientation-resolve-str
-*
-* @example
-* var str2enum = require( '@stdlib/blas-base-matrix-orientation-str2enum' );
-* var resolve = require( '@stdlib/blas-base-matrix-orientation-resolve-str' );
-*
-* var v = resolve( str2enum( 'rows' ) );
-* // returns 'rows'
-*/
-
-// MODULES //
-
-var main = require( './main.js' );
-
-
-// EXPORTS //
-
-module.exports = main;
+//# sourceMappingURL=index.js.map
