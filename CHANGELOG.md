@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-03-30)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`956d892`](https://github.com/stdlib-js/stdlib/commit/956d892ba4361d840a86d4f246e3a7b9bfaa4cfd) - **bench:** refactor to use string interpolation in `blas/base/matrix-orientation-resolve-str` [(#11218)](https://github.com/stdlib-js/stdlib/pull/11218) _(by Kamal Singh Rautela)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Kamal Singh Rautela
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.1.1">
 
 ## 0.1.1 (2026-02-07)
